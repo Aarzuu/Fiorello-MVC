@@ -1,0 +1,386 @@
+wwwroot\admin\assets\css\bootstrap-responsive.min.css
+wwwroot\admin\assets\css\bootstrap-wysihtml5.css
+wwwroot\admin\assets\css\bootstrap.min.css
+wwwroot\admin\assets\css\colorpicker.css
+wwwroot\admin\assets\css\datepicker.css
+wwwroot\admin\assets\css\font-awesome.css
+wwwroot\admin\assets\css\fullcalendar.css
+wwwroot\admin\assets\css\jquery.easy-pie-chart.css
+wwwroot\admin\assets\css\jquery.gritter.css
+wwwroot\admin\assets\css\matrix-login.css
+wwwroot\admin\assets\css\matrix-media.css
+wwwroot\admin\assets\css\matrix-style.css
+wwwroot\admin\assets\css\select2.css
+wwwroot\admin\assets\css\uniform.css
+wwwroot\admin\assets\font-awesome\css\font-awesome.css
+wwwroot\admin\assets\font-awesome\fontawesome-webfont.eot
+wwwroot\admin\assets\font-awesome\fontawesome-webfont.svg
+wwwroot\admin\assets\font-awesome\fontawesome-webfont.ttf
+wwwroot\admin\assets\font-awesome\fontawesome-webfont.woff
+wwwroot\admin\assets\font-awesome\FontAwesome.otf
+wwwroot\admin\assets\font-awesome\font\fontawesome-webfont.eot
+wwwroot\admin\assets\font-awesome\font\fontawesome-webfont.svg
+wwwroot\admin\assets\font-awesome\font\fontawesome-webfont.ttf
+wwwroot\admin\assets\font-awesome\font\fontawesome-webfont.woff
+wwwroot\admin\assets\font-awesome\font\FontAwesome.otf
+wwwroot\admin\assets\img\breadcrumb.png
+wwwroot\admin\assets\img\demo\av1.jpg
+wwwroot\admin\assets\img\demo\av2.jpg
+wwwroot\admin\assets\img\demo\av3.jpg
+wwwroot\admin\assets\img\demo\av4.jpg
+wwwroot\admin\assets\img\demo\av5.jpg
+wwwroot\admin\assets\img\demo\demo-image1.jpg
+wwwroot\admin\assets\img\demo\demo-image2.jpg
+wwwroot\admin\assets\img\demo\demo-image3.jpg
+wwwroot\admin\assets\img\demo\envelope.png
+wwwroot\admin\assets\img\demo\Thumbs.db
+wwwroot\admin\assets\img\gallery\imgbox1.jpg
+wwwroot\admin\assets\img\gallery\imgbox2.jpg
+wwwroot\admin\assets\img\gallery\imgbox3.jpg
+wwwroot\admin\assets\img\gallery\imgbox4.jpg
+wwwroot\admin\assets\img\gallery\imgbox5.jpg
+wwwroot\admin\assets\img\glyphicons-halflings-white.png
+wwwroot\admin\assets\img\gritter.png
+wwwroot\admin\assets\img\hue.png
+wwwroot\admin\assets\img\icons\16\book.png
+wwwroot\admin\assets\img\icons\16\cabinet.png
+wwwroot\admin\assets\img\icons\16\calendar.png
+wwwroot\admin\assets\img\icons\16\client.png
+wwwroot\admin\assets\img\icons\16\database.png
+wwwroot\admin\assets\img\icons\16\download.png
+wwwroot\admin\assets\img\icons\16\graph.png
+wwwroot\admin\assets\img\icons\16\home.png
+wwwroot\admin\assets\img\icons\16\lock.png
+wwwroot\admin\assets\img\icons\16\mail.png
+wwwroot\admin\assets\img\icons\16\pdf.png
+wwwroot\admin\assets\img\icons\16\people.png
+wwwroot\admin\assets\img\icons\16\piechart.png
+wwwroot\admin\assets\img\icons\16\search.png
+wwwroot\admin\assets\img\icons\16\shopping-bag.png
+wwwroot\admin\assets\img\icons\16\survey.png
+wwwroot\admin\assets\img\icons\16\tag.png
+wwwroot\admin\assets\img\icons\16\user.png
+wwwroot\admin\assets\img\icons\16\wallet.png
+wwwroot\admin\assets\img\icons\16\web.png
+wwwroot\admin\assets\img\icons\32\book.png
+wwwroot\admin\assets\img\icons\32\cabinet.png
+wwwroot\admin\assets\img\icons\32\calendar.png
+wwwroot\admin\assets\img\icons\32\client.png
+wwwroot\admin\assets\img\icons\32\dashboard.png
+wwwroot\admin\assets\img\icons\32\database.png
+wwwroot\admin\assets\img\icons\32\download.png
+wwwroot\admin\assets\img\icons\32\graph.png
+wwwroot\admin\assets\img\icons\32\home.png
+wwwroot\admin\assets\img\icons\32\lock.png
+wwwroot\admin\assets\img\icons\32\mail.png
+wwwroot\admin\assets\img\icons\32\pdf.png
+wwwroot\admin\assets\img\icons\32\people.png
+wwwroot\admin\assets\img\icons\32\piechart.png
+wwwroot\admin\assets\img\icons\32\search.png
+wwwroot\admin\assets\img\icons\32\shopping-bag.png
+wwwroot\admin\assets\img\icons\32\survey.png
+wwwroot\admin\assets\img\icons\32\tag.png
+wwwroot\admin\assets\img\icons\32\Thumbs.db
+wwwroot\admin\assets\img\icons\32\user.png
+wwwroot\admin\assets\img\icons\32\wallet.png
+wwwroot\admin\assets\img\icons\32\web.png
+wwwroot\admin\assets\img\larrow.png
+wwwroot\admin\assets\img\line.png
+wwwroot\admin\assets\img\logo.png
+wwwroot\admin\assets\img\menu-active.png
+wwwroot\admin\assets\img\rarrow.png
+wwwroot\admin\assets\img\saturation.png
+wwwroot\admin\assets\img\select2.png
+wwwroot\admin\assets\img\spinner.gif
+wwwroot\admin\assets\img\sprite.png
+wwwroot\admin\assets\img\Thumbs.db
+wwwroot\admin\assets\js\bootstrap-colorpicker.js
+wwwroot\admin\assets\js\bootstrap-datepicker.js
+wwwroot\admin\assets\js\bootstrap-wysihtml5.js
+wwwroot\admin\assets\js\bootstrap.js
+wwwroot\admin\assets\js\bootstrap.min.js
+wwwroot\admin\assets\js\excanvas.min.js
+wwwroot\admin\assets\js\fullcalendar.min.js
+wwwroot\admin\assets\js\jquery.dataTables.min.js
+wwwroot\admin\assets\js\jquery.easy-pie-chart.js
+wwwroot\admin\assets\js\jquery.flot.crosshair.js
+wwwroot\admin\assets\js\jquery.flot.min.js
+wwwroot\admin\assets\js\jquery.flot.pie.js
+wwwroot\admin\assets\js\jquery.flot.pie.min.js
+wwwroot\admin\assets\js\jquery.flot.resize.min.js
+wwwroot\admin\assets\js\jquery.flot.stack.js
+wwwroot\admin\assets\js\jquery.gritter.min.js
+wwwroot\admin\assets\js\jquery.min.js
+wwwroot\admin\assets\js\jquery.peity.min.js
+wwwroot\admin\assets\js\jquery.ui.custom.js
+wwwroot\admin\assets\js\jquery.uniform.js
+wwwroot\admin\assets\js\jquery.validate.js
+wwwroot\admin\assets\js\jquery.wizard.js
+wwwroot\admin\assets\js\masked.js
+wwwroot\admin\assets\js\matrix.calendar.js
+wwwroot\admin\assets\js\matrix.charts.js
+wwwroot\admin\assets\js\matrix.chat.js
+wwwroot\admin\assets\js\matrix.dashboard.js
+wwwroot\admin\assets\js\matrix.form_common.js
+wwwroot\admin\assets\js\matrix.form_validation.js
+wwwroot\admin\assets\js\matrix.interface.js
+wwwroot\admin\assets\js\matrix.js
+wwwroot\admin\assets\js\matrix.login.js
+wwwroot\admin\assets\js\matrix.popover.js
+wwwroot\admin\assets\js\matrix.tables.js
+wwwroot\admin\assets\js\matrix.wizard.js
+wwwroot\admin\assets\js\select2.min.js
+wwwroot\admin\assets\js\wysihtml5-0.3.0.js
+wwwroot\assets\css\style.css
+wwwroot\assets\css\style.css.map
+wwwroot\assets\img\blog-feature-img-1.jpg
+wwwroot\assets\img\blog-feature-img-3.jpg
+wwwroot\assets\img\blog-feature-img-4.jpg
+wwwroot\assets\img\favicon.png
+wwwroot\assets\img\footer-bottom-1.png
+wwwroot\assets\img\h1-custom-icon.png
+wwwroot\assets\img\h2-sign-img.png
+wwwroot\assets\img\h3-background-img.jpg
+wwwroot\assets\img\h3-slider-background-2.jpg
+wwwroot\assets\img\h3-slider-background-3.jpg
+wwwroot\assets\img\h3-slider-background.jpg
+wwwroot\assets\img\h3-team-img-1.png
+wwwroot\assets\img\h3-team-img-2.png
+wwwroot\assets\img\h3-team-img-3.png
+wwwroot\assets\img\h3-team-img-4.png
+wwwroot\assets\img\h3-video-img.jpg
+wwwroot\assets\img\instagram1.jpg
+wwwroot\assets\img\instagram2.jpg
+wwwroot\assets\img\instagram3.jpg
+wwwroot\assets\img\instagram4.jpg
+wwwroot\assets\img\instagram5.jpg
+wwwroot\assets\img\instagram6.jpg
+wwwroot\assets\img\instagram7.jpg
+wwwroot\assets\img\instagram8.jpg
+wwwroot\assets\img\logo.png
+wwwroot\assets\img\shop-10-img.jpg
+wwwroot\assets\img\shop-11-img.jpg
+wwwroot\assets\img\shop-12-img.jpg
+wwwroot\assets\img\shop-13-img.jpg
+wwwroot\assets\img\shop-14-img.jpg
+wwwroot\assets\img\shop-7-img.jpg
+wwwroot\assets\img\shop-8-img.jpg
+wwwroot\assets\img\shop-9-img.jpg
+wwwroot\assets\img\shop-category-img-1.jpg
+wwwroot\assets\img\shop-category-img-2.jpg
+wwwroot\assets\img\shop-category-img-3.jpg
+wwwroot\assets\img\shop-category-img-4.jpg
+wwwroot\assets\img\shop-category-img-5.jpg
+wwwroot\assets\img\shop-category-img-6.jpg
+wwwroot\assets\img\testimonial-img-1.png
+wwwroot\assets\img\testimonial-img-2.png
+wwwroot\assets\js\script.js
+wwwroot\assets\owlcarousel\owl.carousel.min.css
+wwwroot\assets\owlcarousel\owl.carousel.min.js
+wwwroot\assets\owlcarousel\owl.theme.default.min.css
+wwwroot\assets\sass\lib\_common.scss
+wwwroot\assets\sass\lib\_mixins.scss
+wwwroot\assets\sass\lib\_varibales.scss
+wwwroot\assets\sass\sections\_about.scss
+wwwroot\assets\sass\sections\_accordion.scss
+wwwroot\assets\sass\sections\_blog.scss
+wwwroot\assets\sass\sections\_experts.scss
+wwwroot\assets\sass\sections\_footer.scss
+wwwroot\assets\sass\sections\_header.scss
+wwwroot\assets\sass\sections\_instagram.scss
+wwwroot\assets\sass\sections\_product-list.scss
+wwwroot\assets\sass\sections\_product.scss
+wwwroot\assets\sass\sections\_progress.scss
+wwwroot\assets\sass\sections\_say.scss
+wwwroot\assets\sass\sections\_shop-list.scss
+wwwroot\assets\sass\sections\_slider.scss
+wwwroot\assets\sass\sections\_subscribe.scss
+wwwroot\assets\sass\sections\_tab.scss
+wwwroot\assets\sass\style.scss
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\css\site.css
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\favicon.ico
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\js\site.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\jquery\dist\jquery.slim.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\jquery\dist\jquery.slim.min.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\jquery\dist\jquery.slim.min.map
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\assets\css\style.css
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\assets\css\style.css.map
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\assets\js\script.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\assets\owlcarousel\owl.carousel.min.css
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\assets\owlcarousel\owl.carousel.min.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\assets\owlcarousel\owl.theme.default.min.css
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\css\bootstrap-responsive.min.css
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\css\bootstrap-wysihtml5.css
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\css\bootstrap.min.css
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\css\colorpicker.css
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\css\datepicker.css
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\css\font-awesome.css
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\css\fullcalendar.css
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\css\jquery.easy-pie-chart.css
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\css\jquery.gritter.css
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\css\matrix-login.css
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\css\matrix-media.css
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\css\matrix-style.css
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\css\select2.css
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\css\uniform.css
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\font-awesome\css\font-awesome.css
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\font-awesome\fontawesome-webfont.svg
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\font-awesome\FontAwesome.otf
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\font-awesome\font\fontawesome-webfont.svg
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\font-awesome\font\FontAwesome.otf
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\bootstrap-colorpicker.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\bootstrap-datepicker.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\bootstrap-wysihtml5.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\bootstrap.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\bootstrap.min.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\excanvas.min.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\fullcalendar.min.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\jquery.dataTables.min.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\jquery.easy-pie-chart.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\jquery.flot.crosshair.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\jquery.flot.min.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\jquery.flot.pie.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\jquery.flot.pie.min.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\jquery.flot.resize.min.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\jquery.flot.stack.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\jquery.gritter.min.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\jquery.min.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\jquery.peity.min.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\jquery.ui.custom.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\jquery.uniform.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\jquery.validate.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\jquery.wizard.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\masked.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\matrix.calendar.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\matrix.charts.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\matrix.chat.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\matrix.dashboard.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\matrix.form_common.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\matrix.form_validation.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\matrix.interface.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\matrix.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\matrix.login.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\matrix.popover.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\matrix.tables.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\matrix.wizard.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\select2.min.js
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\wwwroot\admin\assets\js\wysihtml5-0.3.0.js

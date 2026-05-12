@@ -1,0 +1,37 @@
+﻿
+
+<main>
+
+    <!-- SLIDER START -->
+    @await Component.InvokeAsync("Slider")
+    <!-- SLIDER END -->
+
+    <!-- PRODUCTS START -->
+    @await Component.InvokeAsync("Product")
+    <!-- PRODUCTS END -->
+
+    <!-- ABOUT START -->
+    @await Component.InvokeAsync("About")
+    <!-- ABOUT END -->
+
+    <!-- EXPERTS START -->
+    @await Component.InvokeAsync("Expert")
+    <!-- EXPERTS END -->
+
+    <!-- SUBSCRIBE START -->
+    @await Component.InvokeAsync("Subscribe")
+    <!-- SUBSCRIBE END -->
+
+    <!-- BLOG START -->
+    @await Component.InvokeAsync("Blog", new {count = 3})
+    <!-- BLOG END -->
+
+    <!-- SAY START -->
+    @await Component.InvokeAsync("Say")
+    <!-- SAY END -->
+
+    <!-- INSTAGRAM START -->
+    @await Component.InvokeAsync("Instagram")
+    <!-- INSTAGRAM END -->
+
+</main>
