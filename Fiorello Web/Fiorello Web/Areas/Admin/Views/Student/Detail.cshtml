@@ -1,0 +1,79 @@
+﻿@model StudentDetailVM
+
+<div id="content">
+    
+    <div id="content-header">
+        <div id="breadcrumb">
+            <a asp-controller="Dashboard" asp-action="Index" title="Go to Home" class="tip-bottom"><i class="icon-home"></i> Dashboard</a>
+            <a asp-action="Index">Students</a>
+            <a href="#" class="current">Details</a>
+        </div>
+        <h1 style="padding-left:20px;">Details</h1>
+    </div>
+
+    <div class="container-fluid">
+        <hr>
+        <div class="row-fluid">
+            <div class="span12">
+                <div class="widget-box">
+                    <div class="widget-title">
+                        <span class="icon"> <i class="icon-eye-open"></i> </span>
+                        <h5>@Model.Name @Model.Surname</h5>
+                    </div>
+                    <div class="widget-content">
+                        <div class="row-fluid">
+                            <div class="span6">
+                                <table class="table table-bordered table-invoice">
+                                    <tbody>
+                                        <tr>
+                                            <td class="width30">Ad:</td>
+                                            <td class="width70"><strong>@Model.Name</strong></td>
+                                        </tr>
+                                        <tr>
+                                            <td>Soyad:</td>
+                                            <td><strong>@Model.Surname</strong></td>
+                                        </tr>
+                                        <tr>
+                                            <td>Yaş:</td>
+                                            <td><strong>@Model.Age</strong></td>
+                                        </tr>
+                                        <tr>
+                                            <td>Email:</td>
+                                            <td><strong>@Model.Email</strong></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="span6">
+                                <table class="table table-bordered table-invoice">
+                                    <tbody>
+                                        <tr>
+                                            <td class="width30">Fakültə:</td>
+                                            <td class="width70"><strong>@Model.Faculty</strong></td>
+                                        </tr>
+                                        <tr>
+                                            <td>Qrup:</td>
+                                            <td><strong>@Model.Group</strong></td>
+                                        </tr>
+                                        <tr>
+                                            <td>Telefon:</td>
+                                            <td><strong>@Model.PhoneNumber</strong></td>
+                                        </tr>
+                                        <tr>
+                                            <td>Ünvan:</td>
+                                            <td><strong>@Model.Address</strong></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <div class="form-actions" style="margin-top:20px;">
+                            <a asp-action="Index" class="btn btn-primary">Back</a>
+                            <a asp-action="Edit" asp-route-id="@Model.ID" class="btn btn-warning">Edit</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

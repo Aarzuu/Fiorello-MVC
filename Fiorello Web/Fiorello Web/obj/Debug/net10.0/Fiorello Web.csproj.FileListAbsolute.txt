@@ -285,3 +285,4 @@ C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fio
 C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\obj\Debug\net10.0\compressed\x7y3i18nx5-{0}-hi7rz3n642-hi7rz3n642.gz
 C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\obj\Debug\net10.0\compressed\imgwr3fe95-{0}-0iwstniho8-0iwstniho8.gz
 C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\obj\Debug\net10.0\compressed\zmch9qacdk-{0}-rddora9qeq-rddora9qeq.gz
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\obj\Debug\net10.0\Fiorello Web.sourcelink.json

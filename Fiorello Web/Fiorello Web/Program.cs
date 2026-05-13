@@ -15,6 +15,7 @@ builder.Services.AddScoped<IBlogService, BlogService>();
 builder.Services.AddScoped<ISliderContextService, SliderContextService>();
 builder.Services.AddScoped<ISliderService, SliderService>();
 builder.Services.AddScoped<ICategoryService, CategoryService>();
+builder.Services.AddScoped<IStudentService, StudentService>();
 
 
 var app = builder.Build();

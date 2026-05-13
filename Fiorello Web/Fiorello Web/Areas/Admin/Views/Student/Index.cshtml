@@ -1,0 +1,40 @@
+﻿
+@model IEnumerable<StudentVM>
+
+<main>
+    <div class="container" style="margin-right:10px">
+        <a asp-action="Create" class="btn btn-success">Create</a>
+        <table class="table table-dark">
+
+            <thead>
+                <tr>
+                    <th scope="col">Name</th>
+                    <th scope="col">Surname</th>
+                    <th scope="col">Age</th>
+                    <th scope="col">Email</th>
+                    <th scope="col">Operation</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var i in Model)
+                {
+                    <tr>
+                        <td>@i.Name</td>
+                        <td>@i.Surname</td>
+                        <td>@i.Age</td>
+                        <td>@i.Email</td>
+                        <td style="display:flex; gap:40px">
+                            <a class="btn btn-warning">Edit</a>
+                            <a asp-action="Detail" asp-route-id="@i.ID" class="btn btn-info">Detail</a>
+                            <form asp-action="Delete" asp-route-id="@i.ID" method="post" onsubmit="return confirm('@i.Name category will be deleted. Press OK to delete.')">
+                                >
+                                <button type="submit" class="btn btn-danger">Delete</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+
+        </table>
+    </div>
+</main>
