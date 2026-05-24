@@ -83,7 +83,7 @@ namespace Fiorello_Web.Controllers
         //}
 
 
-        // admin username:  arzu@gmail.com 
+        // admin email:  arzu@gmail.com 
         // admin password: Password.00 
     }
 }

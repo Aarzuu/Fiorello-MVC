@@ -3,39 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\acer\\Desktop\\CODE ACADEMY TASKS\\MVC templates\\fiorello\\Fiorello Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05E859FD-98C6-96FC-41AB-79D966E9BA2D}|Fiorello Web\\Fiorello Web.csproj|c:\\users\\acer\\desktop\\code academy tasks\\mvc templates\\fiorello\\fiorello web\\fiorello web\\areas\\admin\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05E859FD-98C6-96FC-41AB-79D966E9BA2D}|Fiorello Web\\Fiorello Web.csproj|solutionrelative:fiorello web\\areas\\admin\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05E859FD-98C6-96FC-41AB-79D966E9BA2D}|Fiorello Web\\Fiorello Web.csproj|c:\\users\\acer\\desktop\\code academy tasks\\mvc templates\\fiorello\\fiorello web\\fiorello web\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05E859FD-98C6-96FC-41AB-79D966E9BA2D}|Fiorello Web\\Fiorello Web.csproj|solutionrelative:fiorello web\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05E859FD-98C6-96FC-41AB-79D966E9BA2D}|Fiorello Web\\Fiorello Web.csproj|c:\\users\\acer\\desktop\\code academy tasks\\mvc templates\\fiorello\\fiorello web\\fiorello web\\areas\\admin\\controllers\\expertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05E859FD-98C6-96FC-41AB-79D966E9BA2D}|Fiorello Web\\Fiorello Web.csproj|solutionrelative:fiorello web\\areas\\admin\\controllers\\expertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05E859FD-98C6-96FC-41AB-79D966E9BA2D}|Fiorello Web\\Fiorello Web.csproj|c:\\users\\acer\\desktop\\code academy tasks\\mvc templates\\fiorello\\fiorello web\\fiorello web\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05E859FD-98C6-96FC-41AB-79D966E9BA2D}|Fiorello Web\\Fiorello Web.csproj|solutionrelative:fiorello web\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05E859FD-98C6-96FC-41AB-79D966E9BA2D}|Fiorello Web\\Fiorello Web.csproj|c:\\users\\acer\\desktop\\code academy tasks\\mvc templates\\fiorello\\fiorello web\\fiorello web\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05E859FD-98C6-96FC-41AB-79D966E9BA2D}|Fiorello Web\\Fiorello Web.csproj|solutionrelative:fiorello web\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05E859FD-98C6-96FC-41AB-79D966E9BA2D}|Fiorello Web\\Fiorello Web.csproj|c:\\users\\acer\\desktop\\code academy tasks\\mvc templates\\fiorello\\fiorello web\\fiorello web\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05E859FD-98C6-96FC-41AB-79D966E9BA2D}|Fiorello Web\\Fiorello Web.csproj|solutionrelative:fiorello web\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_GU5Q3O7_SQLEXPRESS/FiorellaDB/True/SqlTable/dbo.AspNetRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05E859FD-98C6-96FC-41AB-79D966E9BA2D}|Fiorello Web\\Fiorello Web.csproj|c:\\users\\acer\\desktop\\code academy tasks\\mvc templates\\fiorello\\fiorello web\\fiorello web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05E859FD-98C6-96FC-41AB-79D966E9BA2D}|Fiorello Web\\Fiorello Web.csproj|solutionrelative:fiorello web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05E859FD-98C6-96FC-41AB-79D966E9BA2D}|Fiorello Web\\Fiorello Web.csproj|c:\\users\\acer\\desktop\\code academy tasks\\mvc templates\\fiorello\\fiorello web\\fiorello web\\helpers\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05E859FD-98C6-96FC-41AB-79D966E9BA2D}|Fiorello Web\\Fiorello Web.csproj|solutionrelative:fiorello web\\helpers\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05E859FD-98C6-96FC-41AB-79D966E9BA2D}|Fiorello Web\\Fiorello Web.csproj|c:\\users\\acer\\desktop\\code academy tasks\\mvc templates\\fiorello\\fiorello web\\fiorello web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05E859FD-98C6-96FC-41AB-79D966E9BA2D}|Fiorello Web\\Fiorello Web.csproj|solutionrelative:fiorello web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,115 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CODE ACADEMY TASKS\\MVC templates\\fiorello\\Fiorello Web\\Fiorello Web\\Areas\\Admin\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "Fiorello Web\\Areas\\Admin\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\CODE ACADEMY TASKS\\MVC templates\\fiorello\\Fiorello Web\\Fiorello Web\\Areas\\Admin\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "Fiorello Web\\Areas\\Admin\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CODE ACADEMY TASKS\\MVC templates\\fiorello\\Fiorello Web\\Fiorello Web\\Program.cs",
+              "RelativeDocumentMoniker": "Fiorello Web\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\CODE ACADEMY TASKS\\MVC templates\\fiorello\\Fiorello Web\\Fiorello Web\\Program.cs",
+              "RelativeToolTip": "Fiorello Web\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T22:53:45.039Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SliderController.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CODE ACADEMY TASKS\\MVC templates\\fiorello\\Fiorello Web\\Fiorello Web\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeDocumentMoniker": "Fiorello Web\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\CODE ACADEMY TASKS\\MVC templates\\fiorello\\Fiorello Web\\Fiorello Web\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeToolTip": "Fiorello Web\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T22:53:41.072Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ExpertController.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CODE ACADEMY TASKS\\MVC templates\\fiorello\\Fiorello Web\\Fiorello Web\\Areas\\Admin\\Controllers\\ExpertController.cs",
-              "RelativeDocumentMoniker": "Fiorello Web\\Areas\\Admin\\Controllers\\ExpertController.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\CODE ACADEMY TASKS\\MVC templates\\fiorello\\Fiorello Web\\Fiorello Web\\Areas\\Admin\\Controllers\\ExpertController.cs",
-              "RelativeToolTip": "Fiorello Web\\Areas\\Admin\\Controllers\\ExpertController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T22:53:36.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DashBoardController.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CODE ACADEMY TASKS\\MVC templates\\fiorello\\Fiorello Web\\Fiorello Web\\Areas\\Admin\\Controllers\\DashBoardController.cs",
-              "RelativeDocumentMoniker": "Fiorello Web\\Areas\\Admin\\Controllers\\DashBoardController.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\CODE ACADEMY TASKS\\MVC templates\\fiorello\\Fiorello Web\\Fiorello Web\\Areas\\Admin\\Controllers\\DashBoardController.cs",
-              "RelativeToolTip": "Fiorello Web\\Areas\\Admin\\Controllers\\DashBoardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T22:53:27.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CODE ACADEMY TASKS\\MVC templates\\fiorello\\Fiorello Web\\Fiorello Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Fiorello Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\CODE ACADEMY TASKS\\MVC templates\\fiorello\\Fiorello Web\\Fiorello Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "Fiorello Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T22:53:06.163Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AccountService.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CODE ACADEMY TASKS\\MVC templates\\fiorello\\Fiorello Web\\Fiorello Web\\Services\\AccountService.cs",
-              "RelativeDocumentMoniker": "Fiorello Web\\Services\\AccountService.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\CODE ACADEMY TASKS\\MVC templates\\fiorello\\Fiorello Web\\Fiorello Web\\Services\\AccountService.cs",
-              "RelativeToolTip": "Fiorello Web\\Services\\AccountService.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAuwCcAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T22:31:48.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "dbo.AspNetRoles [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_GU5Q3O7_SQLEXPRESS/FiorellaDB/True/SqlTable/dbo.AspNetRoles.sql",
-              "ToolTip": "dbo.AspNetRoles [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-05-24T22:25:44.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CODE ACADEMY TASKS\\MVC templates\\fiorello\\Fiorello Web\\Fiorello Web\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Fiorello Web\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\CODE ACADEMY TASKS\\MVC templates\\fiorello\\Fiorello Web\\Fiorello Web\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Fiorello Web\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAcwFIAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T22:14:20.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CODE ACADEMY TASKS\\MVC templates\\fiorello\\Fiorello Web\\Fiorello Web\\Helpers\\Role.cs",
-              "RelativeDocumentMoniker": "Fiorello Web\\Helpers\\Role.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\CODE ACADEMY TASKS\\MVC templates\\fiorello\\Fiorello Web\\Fiorello Web\\Helpers\\Role.cs",
-              "RelativeToolTip": "Fiorello Web\\Helpers\\Role.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T22:12:43.059Z",
+              "WhenOpened": "2026-05-24T23:30:53.363Z",
               "EditorCaption": ""
             }
           ]
