@@ -1,0 +1,51 @@
+﻿@model CategoryDetailVM
+
+<div id="content">
+    <div id="content-header">
+        <div id="breadcrumb">
+            <a asp-area="Admin" asp-controller="Dashboard" asp-action="Index" title="Go to Home" class="tip-bottom">
+                <i class="icon-home"></i> Home
+            </a>
+            <a asp-action="Index">Categories</a>
+            <a href="#" class="current">Detail</a>
+        </div>
+        <h1>Category Details</h1>
+    </div>
+
+    <div class="container-fluid">
+        <hr>
+        <div class="row-fluid">
+            <div class="span6">
+                <div class="widget-box">
+                    <div class="widget-title">
+                        <span class="icon"> <i class="icon-eye-open"></i> </span>
+                        <h5>Category Info</h5>
+                    </div>
+                    <div class="widget-content nopadding">
+                        <table class="table table-bordered">
+                            <tbody>
+                                <tr>
+                                    <td style="width: 30%;"><strong>ID:</strong></td>
+                                    <td>@Model.ID</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Category Name:</strong></td>
+                                    <td>@Model.Name</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+                <div style="margin-top: 20px;">
+                    <a asp-action="Index" class="btn btn-primary">
+                        <i class="icon-arrow-left"></i> Back to List
+                    </a>
+                    <a asp-action="Edit" asp-route-id="@Model.ID" class="btn btn-warning">
+                        <i class="icon-pencil"></i> Edit
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

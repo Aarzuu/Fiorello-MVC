@@ -1,0 +1,31 @@
+﻿
+@model ExpertCreateVM
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<main>
+    <div class="container" style="margin-right:10px">
+        <form asp-action="Create" method="post" enctype="multipart/form-data">
+            <div class="mb-3">
+                <label for="exampleInputName" class="form-label">Choose Image</label>
+                <input class="form-control" type="file" accept="Image/*" id="exampleInputName" aria-describedby="NameHelp" asp-for="Image">
+                <span asp-validation-for="Image" class="text-danger" style="color: red"></span>
+            </div>
+            <div class="mb-3">
+                <label for="exampleInputName" class="form-label">Enter Expert's Name</label>
+                <input class="form-control" type="text" id="exampleInputName" aria-describedby="NameHelp" asp-for="Name">
+                <span asp-validation-for="Name" class="text-danger" style="color: red"></span>
+            </div>
+            <div class="mb-3">
+                <label for="exampleInputName" class="form-label">Enter Expert's Profession</label>
+                <input class="form-control" type="text" id="exampleInputName" aria-describedby="NameHelp" asp-for="Profession">
+                <span asp-validation-for="Profession" class="text-danger" style="color: red"></span>
+            </div>  
+            <button type="submit" class="btn btn-success">Create</button>
+            <a asp-action="Index" class="btn btn-warning">Cancel</a>
+        </form>
+    </div>
+
+</main>

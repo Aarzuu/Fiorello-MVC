@@ -1,5 +1,5 @@
 ﻿
-@model IEnumerable<Category>
+@model IEnumerable<CategoryVM>
 
 <main>
     <div class="container" style="margin-right:10px">
@@ -18,8 +18,8 @@
                     <tr>
                         <td>@i.Name</td>
                         <td style="display:flex; gap:40px">
-                            <a class="btn btn-warning">Edit</a>
-                            <a class="btn btn-info">Detail</a>
+                            <a asp-action="Update" asp-route-id="@i.ID" class="btn btn-warning">Edit</a>
+                            <a asp-action="Detail" asp-route-id="@i.ID" class="btn btn-info">Detail</a>
                             <form asp-action="Delete" asp-route-id="@i.ID" method="post" onsubmit="return confirm('@i.Name category will be deleted. Press OK to delete.')">>
                                 <button type="submit" class="btn btn-danger">Delete</button>
                             </form>

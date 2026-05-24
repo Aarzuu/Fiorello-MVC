@@ -1,9 +1,10 @@
 ﻿using Fiorello_Web.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace Fiorello_Web.Data
 {
-    public class AppDbContext :DbContext
+    public class AppDbContext :IdentityDbContext<AppUser>
     {
         public DbSet<Slider> Sliders { get; set; }
         public DbSet<SliderContext> SliderContexts { get; set; }
@@ -13,6 +14,7 @@ namespace Fiorello_Web.Data
         public DbSet<Product> Products { get; set; }
         public DbSet<ProductImage> ProductImages { get; set; }
         public DbSet<Student> Students { get; set; }
+        public DbSet<Expert> Experts { get; set; }
         public AppDbContext(DbContextOptions<AppDbContext> options) :base(options)
         {
             

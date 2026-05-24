@@ -286,3 +286,4 @@ C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fio
 C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\obj\Debug\net10.0\compressed\imgwr3fe95-{0}-0iwstniho8-0iwstniho8.gz
 C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\obj\Debug\net10.0\compressed\zmch9qacdk-{0}-rddora9qeq-rddora9qeq.gz
 C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\obj\Debug\net10.0\Fiorello Web.sourcelink.json
+C:\Users\acer\Desktop\CODE ACADEMY TASKS\MVC templates\fiorello\Fiorello Web\Fiorello Web\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll

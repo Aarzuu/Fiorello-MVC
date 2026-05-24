@@ -1,0 +1,17 @@
+﻿
+@model CategoryUpdateVM
+
+<main>
+    <div class="container" style="margin-right:10px">
+        <form asp-action="Update" method="post">
+            <div class="mb-3">
+                <label for="exampleInputName" class="form-label">Enter category name</label>
+                <input type="name" class="form-control" id="exampleInputName" aria-describedby="NameHelp" asp-for="Name">
+                <span asp-validation-for="Name" class="label label-important"></span>
+            </div>
+            <button type="submit" class="btn btn-success">Update</button>
+            <a asp-action="Index" class="btn btn-close">Back</a>
+        </form>
+    </div>
+
+</main>

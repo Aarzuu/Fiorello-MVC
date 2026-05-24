@@ -1,0 +1,33 @@
+﻿@model IEnumerable<SliderVM>
+
+<main>
+    <div class="container" style="margin-right:10px">
+        <a asp-action="Create" class="btn btn-success">Create</a>
+        <table class="table table-dark">
+
+            <thead>
+                <tr>
+                    <th scope="col">Image</th>
+                    <th scope="col">Operation</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var i in Model)
+                {
+                    <tr>
+                        <td><img src="~/assets/img/@i.Image" class="img-fluid" alt="" width="350px" height="350px"></td>
+                        <td style="display:flex; gap:40px">
+                            <a asp-action="Update" asp-route-id="@i.ID" class="btn btn-warning">Edit</a>
+                            <a asp-action="Detail" asp-route-id="@i.ID" class="btn btn-info">Detail</a>
+                            <form asp-action="Delete" asp-route-id="@i.ID" method="post" onsubmit="return confirm('Slider image will be deleted. Press OK to delete.')"> >
+                                <button type="submit" class="btn btn-danger">Delete</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+
+        </table>
+    </div>
+</main>
+

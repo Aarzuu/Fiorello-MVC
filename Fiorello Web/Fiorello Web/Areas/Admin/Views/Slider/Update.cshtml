@@ -1,0 +1,22 @@
+﻿
+@model SliderUpdateVM
+
+@{
+    ViewData["Title"] = "Update";
+}
+
+<main>
+    <div class="container" style="margin-right:10px">
+        <img src="~/assets/img/@Model.Image" class="card-img-top" alt="...">
+        <form asp-action="Update" method="post" enctype="multipart/form-data">
+            <div class="mb-3">
+                <label for="exampleInputName" class="form-label">Choose Image</label>
+                <input class="form-control" type="file" accept="Image/*" id="exampleInputName" aria-describedby="NameHelp" asp-for="NewImage">
+                <span asp-validation-for="NewImage" class="text-danger" style="color: red"></span>
+            </div>
+            <button type="submit" class="btn btn-success">Update</button>
+            <a asp-action="Index" class="btn btn-warning">Cancel</a>
+        </form>
+    </div>
+
+</main> 

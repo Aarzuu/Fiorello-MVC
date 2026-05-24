@@ -1,0 +1,39 @@
+﻿@model IEnumerable<ExpertVM>
+
+<main>
+    <div class="container" style="margin-right:100px">
+        <a asp-action="Create" class="btn btn-success">Create</a>
+
+        <table class="table table-dark">
+            <thead>
+                <tr>
+                    <th scope="col" style="width: 15%;">Image</th>
+                    <th scope="col" style="width: 35%;">Expert</th>
+                    <th scope="col" style="width: 25%;">Profession</th>
+                    <th scope="col" style="width: 25%;">Operation</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var i in Model)
+                {
+                    <tr>
+                        <td style="vertical-align: middle; text-align: center;">
+                            <div class="img" style="display: inline-block;">
+                                <img src="/assets/img/@i.Image" class="img-fluid rounded-circle" alt="" style="width: 120px; height: 120px; object-fit: cover;">
+                            </div>
+                        </td>
+                        <td style="font-weight:bold; vertical-align: middle; text-align: left;">@i.Name</td>
+                        <td style="font-weight:bold; vertical-align: middle; text-align: left;">@i.Profession</td>
+                        <td style="vertical-align: middle; text-align: center;">
+                            <a asp-action="Update" asp-route-id="@i.ID" class="btn btn-warning">Edit</a>
+                            <a asp-action="Detail" asp-route-id="@i.ID" class="btn btn-info">Detail</a>
+                            <form asp-action="Delete" asp-route-id="@i.ID" method="post" style="display: inline-block; margin: 0; padding: 0;" onsubmit="return confirm('@i.Name will be deleted. Press OK to delete.')">>
+                                <button type="submit" class="btn btn-danger">Delete</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</main>
